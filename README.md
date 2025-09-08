@@ -32,23 +32,17 @@
 ## Screenshots
 
 ### Pixelmator Pro Workspace  
-<div align="center">
-  ![Pixelmator Pro Workspace](https://petapixel.com/assets/uploads/2024/05/pixelmator-pro-3-6-featured.jpg)
-</div>
+![Pixelmator Pro Workspace](https://petapixel.com/assets/uploads/2024/05/pixelmator-pro-3-6-featured.jpg)
 
 ---
 
 ### Advanced Color Tools  
-<div align="center">
-  ![Pixelmator Pro Colors](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Colors.jpg)
-</div>
+![Pixelmator Pro Colors](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Colors.jpg)
 
 ---
 
 ### Customize Your Brushes  
-<div align="center">
-  ![Pixelmator Pro Brushes](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Brushes.jpg)
-</div>
+![Pixelmator Pro Brushes](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Brushes.jpg)
 
 ---
 
